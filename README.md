@@ -2,7 +2,7 @@
 Estensione Iscrizione chatta
 
 1) scaricare il file "chatta_iscrizione.crx" al seguente indirizzo:
-https://github.com/ioyohtuber-bot/chatta/blob/dbe84148a468e66c8652dcd5e5f7cab99ff8e5e2/chatta_iscrizione.crx    (cliccare col tasto destro sul link e scegliere salva con nome)
+https://github.com/ioyohtuber-bot/chatta/blob/dbe84148a468e66c8652dcd5e5f7cab99ff8e5e2/chatta_iscrizione.crx    (cliccare col tasto destro sul link e scegliere salva link con nome)
 
    
 2) andare su chrome://extensions/  (copia incolla "chrome://extensions/" nella barra degli indirizzi di chrome...senza virgolette " )
